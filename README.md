@@ -14,4 +14,4 @@ Java Script
 
 # Mock Up 
 
-![(images/Paawordgen.png)]
+<img src="./assets/images/Paawordgen.png"></img>
