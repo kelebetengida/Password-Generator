@@ -14,4 +14,4 @@ Java Script
 
 # Mock Up 
 
-![](images/Paawordgen.png)
+![(images/Paawordgen.png)]
